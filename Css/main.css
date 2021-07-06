@@ -1,0 +1,25 @@
+ul>li {
+    list-style: none;
+    display: inline;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.nav {
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: #7976c1;
+    height: 30px;
+}
+
+.nav:hover {
+    text-decoration: underline;
+    color: rebeccapurple;
+}
+
+ul {
+    margin-top: -7px
+}
