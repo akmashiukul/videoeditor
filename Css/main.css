@@ -23,3 +23,13 @@ ul>li {
 ul {
     margin-top: -7px
 }
+
+#welcome {
+    color: hotpink;
+    text-align: center;
+}
+
+#welcome:hover {
+    text-decoration: underline;
+    color: red;
+}
